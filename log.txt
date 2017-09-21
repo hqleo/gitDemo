@@ -1,3 +1,5 @@
+2017-09-22 00:05:32 @HQLeo：推送 git push -u origin master
+2017-09-22 00:04:49 @HQLeo：邦定GitHub： git remote add origin git@github.com:hqleo/demo.git
 2017-09-21 23:04:33 @HQLeo：分支策略与--no--ff
 2017-09-21 22:48:07 @HQLeo：分支冲突与解决方法;
 2017-09-21 22:41:00 @HQLeo：创建分支 a;
