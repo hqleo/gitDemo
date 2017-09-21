@@ -1,3 +1,11 @@
+2017-09-21 22:41:00 @HQLeo：创建分支 a;
+2017-09-21 22:40:09 @HQLeo：分支测试;
+2017-09-21 22:12:54 @HQLeo：5modi in workspace;
+2017-09-21 22:10:57 @HQLeo：4add;
+2017-09-21 22:00:46 @HQLeo：撤销至最后一次状态；
+2017-09-21 21:53:13 @HQLeo：update2 before add;
+2017-09-21 21:40:38 @HQLeo：update Before  add and commit
+2017-09-21 21:38:07 @HQLeo：create;
 2017-09-21 21:04:14 @HQLeo：查看diff
 2017-09-21 20:43:31 @HQLeo：查看状态：git status
 2017-09-21 20:42:00 @HQLeo：学会设置user.name与user.email
