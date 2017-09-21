@@ -1,0 +1,6 @@
+2017-09-21 21:04:14 @HQLeo：查看diff
+2017-09-21 20:43:31 @HQLeo：查看状态：git status
+2017-09-21 20:42:00 @HQLeo：学会设置user.name与user.email
+				git config --local[global] user.name "hqleo"
+				git config --local[global] user.email "hqleo@outlook.com"
+2017-09-21 20:41:35 @HQLeo：学会ADD
